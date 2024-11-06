@@ -74,4 +74,5 @@ page 50112 "Statements Card"
         Level: Text[30];
         Suggestion: Text[80];
         Difficulty: Integer;
+
 }
